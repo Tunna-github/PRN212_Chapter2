@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NestedLoop_VeHinh/1.0.0": {
+        "runtime": {
+          "NestedLoop_VeHinh.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NestedLoop_VeHinh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

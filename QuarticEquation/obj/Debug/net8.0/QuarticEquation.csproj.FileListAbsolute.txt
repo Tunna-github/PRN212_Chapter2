@@ -1,0 +1,14 @@
+C:\PRN212\PRN212_SE1848\QuarticEquation\bin\Debug\net8.0\QuarticEquation.exe
+C:\PRN212\PRN212_SE1848\QuarticEquation\bin\Debug\net8.0\QuarticEquation.deps.json
+C:\PRN212\PRN212_SE1848\QuarticEquation\bin\Debug\net8.0\QuarticEquation.runtimeconfig.json
+C:\PRN212\PRN212_SE1848\QuarticEquation\bin\Debug\net8.0\QuarticEquation.dll
+C:\PRN212\PRN212_SE1848\QuarticEquation\bin\Debug\net8.0\QuarticEquation.pdb
+C:\PRN212\PRN212_SE1848\QuarticEquation\obj\Debug\net8.0\QuarticEquation.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRN212\PRN212_SE1848\QuarticEquation\obj\Debug\net8.0\QuarticEquation.AssemblyInfoInputs.cache
+C:\PRN212\PRN212_SE1848\QuarticEquation\obj\Debug\net8.0\QuarticEquation.AssemblyInfo.cs
+C:\PRN212\PRN212_SE1848\QuarticEquation\obj\Debug\net8.0\QuarticEquation.csproj.CoreCompileInputs.cache
+C:\PRN212\PRN212_SE1848\QuarticEquation\obj\Debug\net8.0\QuarticEquation.dll
+C:\PRN212\PRN212_SE1848\QuarticEquation\obj\Debug\net8.0\refint\QuarticEquation.dll
+C:\PRN212\PRN212_SE1848\QuarticEquation\obj\Debug\net8.0\QuarticEquation.pdb
+C:\PRN212\PRN212_SE1848\QuarticEquation\obj\Debug\net8.0\QuarticEquation.genruntimeconfig.cache
+C:\PRN212\PRN212_SE1848\QuarticEquation\obj\Debug\net8.0\ref\QuarticEquation.dll

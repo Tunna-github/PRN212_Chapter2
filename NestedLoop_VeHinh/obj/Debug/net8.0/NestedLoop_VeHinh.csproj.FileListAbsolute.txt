@@ -1,0 +1,14 @@
+C:\PRN212\PRN212_SE1848\NestedLoop_VeHinh\bin\Debug\net8.0\NestedLoop_VeHinh.exe
+C:\PRN212\PRN212_SE1848\NestedLoop_VeHinh\bin\Debug\net8.0\NestedLoop_VeHinh.deps.json
+C:\PRN212\PRN212_SE1848\NestedLoop_VeHinh\bin\Debug\net8.0\NestedLoop_VeHinh.runtimeconfig.json
+C:\PRN212\PRN212_SE1848\NestedLoop_VeHinh\bin\Debug\net8.0\NestedLoop_VeHinh.dll
+C:\PRN212\PRN212_SE1848\NestedLoop_VeHinh\bin\Debug\net8.0\NestedLoop_VeHinh.pdb
+C:\PRN212\PRN212_SE1848\NestedLoop_VeHinh\obj\Debug\net8.0\NestedLoop_VeHinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRN212\PRN212_SE1848\NestedLoop_VeHinh\obj\Debug\net8.0\NestedLoop_VeHinh.AssemblyInfoInputs.cache
+C:\PRN212\PRN212_SE1848\NestedLoop_VeHinh\obj\Debug\net8.0\NestedLoop_VeHinh.AssemblyInfo.cs
+C:\PRN212\PRN212_SE1848\NestedLoop_VeHinh\obj\Debug\net8.0\NestedLoop_VeHinh.csproj.CoreCompileInputs.cache
+C:\PRN212\PRN212_SE1848\NestedLoop_VeHinh\obj\Debug\net8.0\NestedLoop_VeHinh.dll
+C:\PRN212\PRN212_SE1848\NestedLoop_VeHinh\obj\Debug\net8.0\refint\NestedLoop_VeHinh.dll
+C:\PRN212\PRN212_SE1848\NestedLoop_VeHinh\obj\Debug\net8.0\NestedLoop_VeHinh.pdb
+C:\PRN212\PRN212_SE1848\NestedLoop_VeHinh\obj\Debug\net8.0\NestedLoop_VeHinh.genruntimeconfig.cache
+C:\PRN212\PRN212_SE1848\NestedLoop_VeHinh\obj\Debug\net8.0\ref\NestedLoop_VeHinh.dll
