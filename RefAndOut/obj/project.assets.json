@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PRN212\\PRN212_SE1848\\RefAndOut\\RefAndOut.csproj",
+      "projectUniqueName": "C:\\Github\\Chapter2Local\\RefAndOut\\RefAndOut.csproj",
       "projectName": "RefAndOut",
-      "projectPath": "C:\\PRN212\\PRN212_SE1848\\RefAndOut\\RefAndOut.csproj",
+      "projectPath": "C:\\Github\\Chapter2Local\\RefAndOut\\RefAndOut.csproj",
       "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
-      "outputPath": "C:\\PRN212\\PRN212_SE1848\\RefAndOut\\obj\\",
+      "outputPath": "C:\\Github\\Chapter2Local\\RefAndOut\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\trung\\AppData\\Roaming\\NuGet\\NuGet.Config",

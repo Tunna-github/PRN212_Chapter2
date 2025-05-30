@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PRN212\\PRN212_SE1848\\NestedLoop_Sort\\NestedLoop_Sort.csproj": {}
+    "C:\\Github\\Chapter2Local\\NestedLoop_Sort\\NestedLoop_Sort.csproj": {}
   },
   "projects": {
-    "C:\\PRN212\\PRN212_SE1848\\NestedLoop_Sort\\NestedLoop_Sort.csproj": {
+    "C:\\Github\\Chapter2Local\\NestedLoop_Sort\\NestedLoop_Sort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PRN212\\PRN212_SE1848\\NestedLoop_Sort\\NestedLoop_Sort.csproj",
+        "projectUniqueName": "C:\\Github\\Chapter2Local\\NestedLoop_Sort\\NestedLoop_Sort.csproj",
         "projectName": "NestedLoop_Sort",
-        "projectPath": "C:\\PRN212\\PRN212_SE1848\\NestedLoop_Sort\\NestedLoop_Sort.csproj",
+        "projectPath": "C:\\Github\\Chapter2Local\\NestedLoop_Sort\\NestedLoop_Sort.csproj",
         "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
-        "outputPath": "C:\\PRN212\\PRN212_SE1848\\NestedLoop_Sort\\obj\\",
+        "outputPath": "C:\\Github\\Chapter2Local\\NestedLoop_Sort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\trung\\AppData\\Roaming\\NuGet\\NuGet.Config",

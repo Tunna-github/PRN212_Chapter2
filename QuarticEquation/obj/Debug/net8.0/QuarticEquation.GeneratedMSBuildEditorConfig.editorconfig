@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = QuarticEquation
-build_property.ProjectDir = C:\PRN212\PRN212_SE1848\QuarticEquation\
+build_property.ProjectDir = C:\Github\Chapter2Local\QuarticEquation\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

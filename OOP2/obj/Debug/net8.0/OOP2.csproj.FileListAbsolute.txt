@@ -1,0 +1,15 @@
+C:\Github\Chapter2Local\OOP2\bin\Debug\net8.0\OOP2.exe
+C:\Github\Chapter2Local\OOP2\bin\Debug\net8.0\OOP2.deps.json
+C:\Github\Chapter2Local\OOP2\bin\Debug\net8.0\OOP2.runtimeconfig.json
+C:\Github\Chapter2Local\OOP2\bin\Debug\net8.0\OOP2.dll
+C:\Github\Chapter2Local\OOP2\bin\Debug\net8.0\OOP2.pdb
+C:\Github\Chapter2Local\OOP2\obj\Debug\net8.0\OOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Chapter2Local\OOP2\obj\Debug\net8.0\OOP2.AssemblyInfoInputs.cache
+C:\Github\Chapter2Local\OOP2\obj\Debug\net8.0\OOP2.AssemblyInfo.cs
+C:\Github\Chapter2Local\OOP2\obj\Debug\net8.0\OOP2.csproj.CoreCompileInputs.cache
+C:\Github\Chapter2Local\OOP2\obj\Debug\net8.0\OOP2.sourcelink.json
+C:\Github\Chapter2Local\OOP2\obj\Debug\net8.0\OOP2.dll
+C:\Github\Chapter2Local\OOP2\obj\Debug\net8.0\refint\OOP2.dll
+C:\Github\Chapter2Local\OOP2\obj\Debug\net8.0\OOP2.pdb
+C:\Github\Chapter2Local\OOP2\obj\Debug\net8.0\OOP2.genruntimeconfig.cache
+C:\Github\Chapter2Local\OOP2\obj\Debug\net8.0\ref\OOP2.dll

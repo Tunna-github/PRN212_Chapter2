@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PRN212\\PRN212_SE1848\\NestedLoop_VeHinh\\NestedLoop_VeHinh.csproj": {}
+    "C:\\Github\\Chapter2Local\\NestedLoop_VeHinh\\NestedLoop_VeHinh.csproj": {}
   },
   "projects": {
-    "C:\\PRN212\\PRN212_SE1848\\NestedLoop_VeHinh\\NestedLoop_VeHinh.csproj": {
+    "C:\\Github\\Chapter2Local\\NestedLoop_VeHinh\\NestedLoop_VeHinh.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PRN212\\PRN212_SE1848\\NestedLoop_VeHinh\\NestedLoop_VeHinh.csproj",
+        "projectUniqueName": "C:\\Github\\Chapter2Local\\NestedLoop_VeHinh\\NestedLoop_VeHinh.csproj",
         "projectName": "NestedLoop_VeHinh",
-        "projectPath": "C:\\PRN212\\PRN212_SE1848\\NestedLoop_VeHinh\\NestedLoop_VeHinh.csproj",
+        "projectPath": "C:\\Github\\Chapter2Local\\NestedLoop_VeHinh\\NestedLoop_VeHinh.csproj",
         "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
-        "outputPath": "C:\\PRN212\\PRN212_SE1848\\NestedLoop_VeHinh\\obj\\",
+        "outputPath": "C:\\Github\\Chapter2Local\\NestedLoop_VeHinh\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\trung\\AppData\\Roaming\\NuGet\\NuGet.Config",

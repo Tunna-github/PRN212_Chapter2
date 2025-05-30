@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PRN212\\PRN212_SE1848\\QuarticEquation\\QuarticEquation.csproj": {}
+    "C:\\Github\\Chapter2Local\\QuarticEquation\\QuarticEquation.csproj": {}
   },
   "projects": {
-    "C:\\PRN212\\PRN212_SE1848\\QuarticEquation\\QuarticEquation.csproj": {
+    "C:\\Github\\Chapter2Local\\QuarticEquation\\QuarticEquation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PRN212\\PRN212_SE1848\\QuarticEquation\\QuarticEquation.csproj",
+        "projectUniqueName": "C:\\Github\\Chapter2Local\\QuarticEquation\\QuarticEquation.csproj",
         "projectName": "QuarticEquation",
-        "projectPath": "C:\\PRN212\\PRN212_SE1848\\QuarticEquation\\QuarticEquation.csproj",
+        "projectPath": "C:\\Github\\Chapter2Local\\QuarticEquation\\QuarticEquation.csproj",
         "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
-        "outputPath": "C:\\PRN212\\PRN212_SE1848\\QuarticEquation\\obj\\",
+        "outputPath": "C:\\Github\\Chapter2Local\\QuarticEquation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\trung\\AppData\\Roaming\\NuGet\\NuGet.Config",

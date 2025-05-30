@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PRN212\\PRN212_SE1848\\paramsample\\paramsample.csproj": {}
+    "C:\\Github\\Chapter2Local\\paramsample\\paramsample.csproj": {}
   },
   "projects": {
-    "C:\\PRN212\\PRN212_SE1848\\paramsample\\paramsample.csproj": {
+    "C:\\Github\\Chapter2Local\\paramsample\\paramsample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PRN212\\PRN212_SE1848\\paramsample\\paramsample.csproj",
+        "projectUniqueName": "C:\\Github\\Chapter2Local\\paramsample\\paramsample.csproj",
         "projectName": "paramsample",
-        "projectPath": "C:\\PRN212\\PRN212_SE1848\\paramsample\\paramsample.csproj",
+        "projectPath": "C:\\Github\\Chapter2Local\\paramsample\\paramsample.csproj",
         "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
-        "outputPath": "C:\\PRN212\\PRN212_SE1848\\paramsample\\obj\\",
+        "outputPath": "C:\\Github\\Chapter2Local\\paramsample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\trung\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PRN212\\PRN212_SE1848\\StringInteraction\\StringInteraction.csproj",
+      "projectUniqueName": "C:\\Github\\Chapter2Local\\StringInteraction\\StringInteraction.csproj",
       "projectName": "StringInteraction",
-      "projectPath": "C:\\PRN212\\PRN212_SE1848\\StringInteraction\\StringInteraction.csproj",
+      "projectPath": "C:\\Github\\Chapter2Local\\StringInteraction\\StringInteraction.csproj",
       "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
-      "outputPath": "C:\\PRN212\\PRN212_SE1848\\StringInteraction\\obj\\",
+      "outputPath": "C:\\Github\\Chapter2Local\\StringInteraction\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\trung\\AppData\\Roaming\\NuGet\\NuGet.Config",

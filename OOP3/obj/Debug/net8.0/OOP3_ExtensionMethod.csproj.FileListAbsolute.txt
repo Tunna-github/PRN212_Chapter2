@@ -1,0 +1,15 @@
+C:\Github\Chapter2Local\OOP3\bin\Debug\net8.0\OOP3_ExtensionMethod.exe
+C:\Github\Chapter2Local\OOP3\bin\Debug\net8.0\OOP3_ExtensionMethod.deps.json
+C:\Github\Chapter2Local\OOP3\bin\Debug\net8.0\OOP3_ExtensionMethod.runtimeconfig.json
+C:\Github\Chapter2Local\OOP3\bin\Debug\net8.0\OOP3_ExtensionMethod.dll
+C:\Github\Chapter2Local\OOP3\bin\Debug\net8.0\OOP3_ExtensionMethod.pdb
+C:\Github\Chapter2Local\OOP3\obj\Debug\net8.0\OOP3_ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Chapter2Local\OOP3\obj\Debug\net8.0\OOP3_ExtensionMethod.AssemblyInfoInputs.cache
+C:\Github\Chapter2Local\OOP3\obj\Debug\net8.0\OOP3_ExtensionMethod.AssemblyInfo.cs
+C:\Github\Chapter2Local\OOP3\obj\Debug\net8.0\OOP3_ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Github\Chapter2Local\OOP3\obj\Debug\net8.0\OOP3_ExtensionMethod.sourcelink.json
+C:\Github\Chapter2Local\OOP3\obj\Debug\net8.0\OOP3_ExtensionMethod.dll
+C:\Github\Chapter2Local\OOP3\obj\Debug\net8.0\refint\OOP3_ExtensionMethod.dll
+C:\Github\Chapter2Local\OOP3\obj\Debug\net8.0\OOP3_ExtensionMethod.pdb
+C:\Github\Chapter2Local\OOP3\obj\Debug\net8.0\OOP3_ExtensionMethod.genruntimeconfig.cache
+C:\Github\Chapter2Local\OOP3\obj\Debug\net8.0\ref\OOP3_ExtensionMethod.dll

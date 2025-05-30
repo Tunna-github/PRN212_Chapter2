@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TupleSample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+466abf73f8ca4a3860b8b63f44ca82d08600a551")]
 [assembly: System.Reflection.AssemblyProductAttribute("TupleSample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TupleSample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

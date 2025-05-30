@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PRN212\\PRN212_SE1848\\SimpleMath\\SimpleMath.csproj",
+      "projectUniqueName": "C:\\Github\\Chapter2Local\\SimpleMath\\SimpleMath.csproj",
       "projectName": "SimpleMath",
-      "projectPath": "C:\\PRN212\\PRN212_SE1848\\SimpleMath\\SimpleMath.csproj",
+      "projectPath": "C:\\Github\\Chapter2Local\\SimpleMath\\SimpleMath.csproj",
       "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
-      "outputPath": "C:\\PRN212\\PRN212_SE1848\\SimpleMath\\obj\\",
+      "outputPath": "C:\\Github\\Chapter2Local\\SimpleMath\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\trung\\AppData\\Roaming\\NuGet\\NuGet.Config",

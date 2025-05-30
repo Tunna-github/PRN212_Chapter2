@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PRN212\\PRN212_SE1848\\TryParseSimple\\TryParseSimple.csproj",
+      "projectUniqueName": "C:\\Github\\Chapter2Local\\TryParseSimple\\TryParseSimple.csproj",
       "projectName": "TryParseSimple",
-      "projectPath": "C:\\PRN212\\PRN212_SE1848\\TryParseSimple\\TryParseSimple.csproj",
+      "projectPath": "C:\\Github\\Chapter2Local\\TryParseSimple\\TryParseSimple.csproj",
       "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
-      "outputPath": "C:\\PRN212\\PRN212_SE1848\\TryParseSimple\\obj\\",
+      "outputPath": "C:\\Github\\Chapter2Local\\TryParseSimple\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\trung\\AppData\\Roaming\\NuGet\\NuGet.Config",

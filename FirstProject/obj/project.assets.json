@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PRN212\\PRN212_SE1848\\FirstProject\\FirstProject.csproj",
+      "projectUniqueName": "C:\\Github\\Chapter2Local\\FirstProject\\FirstProject.csproj",
       "projectName": "FirstProject",
-      "projectPath": "C:\\PRN212\\PRN212_SE1848\\FirstProject\\FirstProject.csproj",
+      "projectPath": "C:\\Github\\Chapter2Local\\FirstProject\\FirstProject.csproj",
       "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
-      "outputPath": "C:\\PRN212\\PRN212_SE1848\\FirstProject\\obj\\",
+      "outputPath": "C:\\Github\\Chapter2Local\\FirstProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\trung\\AppData\\Roaming\\NuGet\\NuGet.Config",
