@@ -1,0 +1,15 @@
+C:\Github\Chapter2Local\OOP6_Dictionary\bin\Debug\net8.0\OOP6_Dictionary.exe
+C:\Github\Chapter2Local\OOP6_Dictionary\bin\Debug\net8.0\OOP6_Dictionary.deps.json
+C:\Github\Chapter2Local\OOP6_Dictionary\bin\Debug\net8.0\OOP6_Dictionary.runtimeconfig.json
+C:\Github\Chapter2Local\OOP6_Dictionary\bin\Debug\net8.0\OOP6_Dictionary.dll
+C:\Github\Chapter2Local\OOP6_Dictionary\bin\Debug\net8.0\OOP6_Dictionary.pdb
+C:\Github\Chapter2Local\OOP6_Dictionary\obj\Debug\net8.0\OOP6_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Chapter2Local\OOP6_Dictionary\obj\Debug\net8.0\OOP6_Dictionary.AssemblyInfoInputs.cache
+C:\Github\Chapter2Local\OOP6_Dictionary\obj\Debug\net8.0\OOP6_Dictionary.AssemblyInfo.cs
+C:\Github\Chapter2Local\OOP6_Dictionary\obj\Debug\net8.0\OOP6_Dictionary.csproj.CoreCompileInputs.cache
+C:\Github\Chapter2Local\OOP6_Dictionary\obj\Debug\net8.0\OOP6_Dictionary.sourcelink.json
+C:\Github\Chapter2Local\OOP6_Dictionary\obj\Debug\net8.0\OOP6_Dictionary.dll
+C:\Github\Chapter2Local\OOP6_Dictionary\obj\Debug\net8.0\refint\OOP6_Dictionary.dll
+C:\Github\Chapter2Local\OOP6_Dictionary\obj\Debug\net8.0\OOP6_Dictionary.pdb
+C:\Github\Chapter2Local\OOP6_Dictionary\obj\Debug\net8.0\OOP6_Dictionary.genruntimeconfig.cache
+C:\Github\Chapter2Local\OOP6_Dictionary\obj\Debug\net8.0\ref\OOP6_Dictionary.dll

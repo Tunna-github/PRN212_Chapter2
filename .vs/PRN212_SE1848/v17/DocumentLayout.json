@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Github\\Chapter2Local\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2A9A80BE-3027-4FD5-B1DF-0CE95DD87A1E}|OOP6_Dictionary\\OOP6_Dictionary.csproj|c:\\github\\chapter2local\\oop6_dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9A80BE-3027-4FD5-B1DF-0CE95DD87A1E}|OOP6_Dictionary\\OOP6_Dictionary.csproj|solutionrelative:oop6_dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9A80BE-3027-4FD5-B1DF-0CE95DD87A1E}|OOP6_Dictionary\\OOP6_Dictionary.csproj|c:\\github\\chapter2local\\oop6_dictionary\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9A80BE-3027-4FD5-B1DF-0CE95DD87A1E}|OOP6_Dictionary\\OOP6_Dictionary.csproj|solutionrelative:oop6_dictionary\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9A80BE-3027-4FD5-B1DF-0CE95DD87A1E}|OOP6_Dictionary\\OOP6_Dictionary.csproj|c:\\github\\chapter2local\\oop6_dictionary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9A80BE-3027-4FD5-B1DF-0CE95DD87A1E}|OOP6_Dictionary\\OOP6_Dictionary.csproj|solutionrelative:oop6_dictionary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DBF8507B-623D-4D76-8748-F42DD446E827}|OOP5_Generic_list\\OOP5_Generic_list.csproj|c:\\github\\chapter2local\\oop5_generic_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBF8507B-623D-4D76-8748-F42DD446E827}|OOP5_Generic_list\\OOP5_Generic_list.csproj|solutionrelative:oop5_generic_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -126,7 +138,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -137,21 +149,69 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP6_Dictionary\\Category.cs",
+              "RelativeDocumentMoniker": "OOP6_Dictionary\\Category.cs",
+              "ToolTip": "C:\\Github\\Chapter2Local\\OOP6_Dictionary\\Category.cs",
+              "RelativeToolTip": "OOP6_Dictionary\\Category.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAADwv1kAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:47:03.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP6_Dictionary\\Product.cs",
+              "RelativeDocumentMoniker": "OOP6_Dictionary\\Product.cs",
+              "ToolTip": "C:\\Github\\Chapter2Local\\OOP6_Dictionary\\Product.cs",
+              "RelativeToolTip": "OOP6_Dictionary\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:43:27.52Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP6_Dictionary\\Program.cs",
+              "RelativeDocumentMoniker": "OOP6_Dictionary\\Program.cs",
+              "ToolTip": "C:\\Github\\Chapter2Local\\OOP6_Dictionary\\Program.cs",
+              "RelativeToolTip": "OOP6_Dictionary\\Program.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAUwGYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:42:33.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP5_Generic_list\\Program.cs",
               "RelativeDocumentMoniker": "OOP5_Generic_list\\Program.cs",
               "ToolTip": "C:\\Github\\Chapter2Local\\OOP5_Generic_list\\Program.cs",
               "RelativeToolTip": "OOP5_Generic_list\\Program.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAuwCwAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAGoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T07:19:20.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T07:19:20.327Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "YourUtils.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP4_ResumeOOP2\\YourUtils.cs",
               "RelativeDocumentMoniker": "OOP4_ResumeOOP2\\YourUtils.cs",
@@ -163,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP4_ResumeOOP2\\Program.cs",
               "RelativeDocumentMoniker": "OOP4_ResumeOOP2\\Program.cs",
@@ -175,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "MyUtils.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP3\\MyUtils.cs",
               "RelativeDocumentMoniker": "OOP3\\MyUtils.cs",
@@ -187,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "OOP3_ExtensionMethod.csproj",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP3\\OOP3_ExtensionMethod.csproj",
               "RelativeDocumentMoniker": "OOP3\\OOP3_ExtensionMethod.csproj",
@@ -199,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP3\\Program.cs",
               "RelativeDocumentMoniker": "OOP3\\Program.cs",
@@ -211,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ParttimeEmployee.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP2\\ParttimeEmployee.cs",
               "RelativeDocumentMoniker": "OOP2\\ParttimeEmployee.cs",
@@ -223,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "FulltimeEployee.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP2\\FulltimeEployee.cs",
               "RelativeDocumentMoniker": "OOP2\\FulltimeEployee.cs",
@@ -235,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP2\\Employee.cs",
               "RelativeDocumentMoniker": "OOP2\\Employee.cs",
@@ -247,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP2\\Program.cs",
               "RelativeDocumentMoniker": "OOP2\\Program.cs",
@@ -259,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP1\\Customer.cs",
               "RelativeDocumentMoniker": "OOP1\\Customer.cs",
@@ -271,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP1\\Employee.cs",
               "RelativeDocumentMoniker": "OOP1\\Employee.cs",
@@ -283,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP1\\Category.cs",
               "RelativeDocumentMoniker": "OOP1\\Category.cs",
@@ -295,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP1\\Program.cs",
               "RelativeDocumentMoniker": "OOP1\\Program.cs",
@@ -307,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\NestedLoop_VeHinh\\Program.cs",
               "RelativeDocumentMoniker": "NestedLoop_VeHinh\\Program.cs",
@@ -319,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\NestedLoop_Sort\\Program.cs",
               "RelativeDocumentMoniker": "NestedLoop_Sort\\Program.cs",
@@ -331,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\TupleSample\\Program.cs",
               "RelativeDocumentMoniker": "TupleSample\\Program.cs",
@@ -343,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\paramsample\\Program.cs",
               "RelativeDocumentMoniker": "paramsample\\Program.cs",
@@ -355,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "TryParseSimple.csproj",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\TryParseSimple\\TryParseSimple.csproj",
               "RelativeDocumentMoniker": "TryParseSimple\\TryParseSimple.csproj",
@@ -367,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\TryParseSimple\\Program.cs",
               "RelativeDocumentMoniker": "TryParseSimple\\Program.cs",
@@ -379,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\RefAndOut\\Program.cs",
               "RelativeDocumentMoniker": "RefAndOut\\Program.cs",
@@ -391,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\SimpleMath\\Program.cs",
               "RelativeDocumentMoniker": "SimpleMath\\Program.cs",
@@ -403,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\StringInteraction\\Program.cs",
               "RelativeDocumentMoniker": "StringInteraction\\Program.cs",
@@ -415,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "FirstDegree.csproj",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\FirstDegree\\FirstDegree.csproj",
               "RelativeDocumentMoniker": "FirstDegree\\FirstDegree.csproj",
@@ -427,7 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "FirstProject.csproj",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\FirstProject\\FirstProject.csproj",
               "RelativeDocumentMoniker": "FirstProject\\FirstProject.csproj",
@@ -439,7 +499,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\QuarticEquation\\Program.cs",
               "RelativeDocumentMoniker": "QuarticEquation\\Program.cs",
@@ -451,7 +511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\FirstDegree\\Program.cs",
               "RelativeDocumentMoniker": "FirstDegree\\Program.cs",
@@ -463,7 +523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\SecondProject\\Program.cs",
               "RelativeDocumentMoniker": "SecondProject\\Program.cs",
@@ -475,7 +535,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\FirstProject\\Program.cs",
               "RelativeDocumentMoniker": "FirstProject\\Program.cs",
