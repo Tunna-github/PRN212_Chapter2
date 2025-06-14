@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOP6_Dictionary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffe7f0e89b0f87b7ecdf982696a399f065021e90")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2f913a2fc723b509cf6589efb44bde1a0130131")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOP6_Dictionary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOP6_Dictionary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

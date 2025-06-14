@@ -3,6 +3,134 @@
   "WorkspaceRootPath": "C:\\Github\\Chapter2Local\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0A2CB7A7-8139-4FFF-B3FE-A9ABDE7D59F3}|BTCoBan_So3\\BTCoBan_So3.csproj|c:\\github\\chapter2local\\btcoban_so3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2CB7A7-8139-4FFF-B3FE-A9ABDE7D59F3}|BTCoBan_So3\\BTCoBan_So3.csproj|solutionrelative:btcoban_so3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2CB7A7-8139-4FFF-B3FE-A9ABDE7D59F3}|BTCoBan_So3\\BTCoBan_So3.csproj|c:\\github\\chapter2local\\btcoban_so3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0A2CB7A7-8139-4FFF-B3FE-A9ABDE7D59F3}|BTCoBan_So3\\BTCoBan_So3.csproj|solutionrelative:btcoban_so3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C82844-4146-469C-9310-67642B1A50AB}|BTCoBan_So2\\BTCoBan_So2.csproj|c:\\github\\chapter2local\\btcoban_so2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C82844-4146-469C-9310-67642B1A50AB}|BTCoBan_So2\\BTCoBan_So2.csproj|solutionrelative:btcoban_so2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C82844-4146-469C-9310-67642B1A50AB}|BTCoBan_So2\\BTCoBan_So2.csproj|c:\\github\\chapter2local\\btcoban_so2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3C82844-4146-469C-9310-67642B1A50AB}|BTCoBan_So2\\BTCoBan_So2.csproj|solutionrelative:btcoban_so2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C82844-4146-469C-9310-67642B1A50AB}|BTCoBan_So2\\BTCoBan_So2.csproj|c:\\github\\chapter2local\\btcoban_so2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C82844-4146-469C-9310-67642B1A50AB}|BTCoBan_So2\\BTCoBan_So2.csproj|solutionrelative:btcoban_so2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1062B-A16C-4A9E-880B-00B2EFBFB186}|BTCoBan_So1\\BTCoBan_So1.csproj|c:\\github\\chapter2local\\btcoban_so1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{03C1062B-A16C-4A9E-880B-00B2EFBFB186}|BTCoBan_So1\\BTCoBan_So1.csproj|solutionrelative:btcoban_so1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1062B-A16C-4A9E-880B-00B2EFBFB186}|BTCoBan_So1\\BTCoBan_So1.csproj|c:\\github\\chapter2local\\btcoban_so1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{03C1062B-A16C-4A9E-880B-00B2EFBFB186}|BTCoBan_So1\\BTCoBan_So1.csproj|solutionrelative:btcoban_so1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1062B-A16C-4A9E-880B-00B2EFBFB186}|BTCoBan_So1\\BTCoBan_So1.csproj|c:\\github\\chapter2local\\btcoban_so1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1062B-A16C-4A9E-880B-00B2EFBFB186}|BTCoBan_So1\\BTCoBan_So1.csproj|solutionrelative:btcoban_so1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1062B-A16C-4A9E-880B-00B2EFBFB186}|BTCoBan_So1\\BTCoBan_So1.csproj|c:\\github\\chapter2local\\btcoban_so1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1062B-A16C-4A9E-880B-00B2EFBFB186}|BTCoBan_So1\\BTCoBan_So1.csproj|solutionrelative:btcoban_so1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B023F0-68AC-406A-ADFB-DEDCF7BE7151}|HelloWpfApp\\HelloWpfApp.csproj|c:\\github\\chapter2local\\hellowpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B023F0-68AC-406A-ADFB-DEDCF7BE7151}|HelloWpfApp\\HelloWpfApp.csproj|solutionrelative:hellowpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B023F0-68AC-406A-ADFB-DEDCF7BE7151}|HelloWpfApp\\HelloWpfApp.csproj|c:\\github\\chapter2local\\hellowpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12B023F0-68AC-406A-ADFB-DEDCF7BE7151}|HelloWpfApp\\HelloWpfApp.csproj|solutionrelative:hellowpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B023F0-68AC-406A-ADFB-DEDCF7BE7151}|HelloWpfApp\\HelloWpfApp.csproj|c:\\github\\chapter2local\\hellowpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12B023F0-68AC-406A-ADFB-DEDCF7BE7151}|HelloWpfApp\\HelloWpfApp.csproj|solutionrelative:hellowpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B023F0-68AC-406A-ADFB-DEDCF7BE7151}|HelloWpfApp\\HelloWpfApp.csproj|c:\\github\\chapter2local\\hellowpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12B023F0-68AC-406A-ADFB-DEDCF7BE7151}|HelloWpfApp\\HelloWpfApp.csproj|solutionrelative:hellowpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B023F0-68AC-406A-ADFB-DEDCF7BE7151}|HelloWpfApp\\HelloWpfApp.csproj|c:\\github\\chapter2local\\hellowpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B023F0-68AC-406A-ADFB-DEDCF7BE7151}|HelloWpfApp\\HelloWpfApp.csproj|solutionrelative:hellowpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{113FE566-7806-4F1E-B374-DCA3340E7908}|Lucy_SalesDataManagement\\Lucy_SalesDataManagement.csproj|c:\\github\\chapter2local\\lucy_salesdatamanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{113FE566-7806-4F1E-B374-DCA3340E7908}|Lucy_SalesDataManagement\\Lucy_SalesDataManagement.csproj|solutionrelative:lucy_salesdatamanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{113FE566-7806-4F1E-B374-DCA3340E7908}|Lucy_SalesDataManagement\\Lucy_SalesDataManagement.csproj|c:\\github\\chapter2local\\lucy_salesdatamanagement\\lucy_salesdatamanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{113FE566-7806-4F1E-B374-DCA3340E7908}|Lucy_SalesDataManagement\\Lucy_SalesDataManagement.csproj|solutionrelative:lucy_salesdatamanagement\\lucy_salesdatamanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{113FE566-7806-4F1E-B374-DCA3340E7908}|Lucy_SalesDataManagement\\Lucy_SalesDataManagement.csproj|c:\\github\\chapter2local\\lucy_salesdatamanagement\\lucy_salesdata.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{113FE566-7806-4F1E-B374-DCA3340E7908}|Lucy_SalesDataManagement\\Lucy_SalesDataManagement.csproj|solutionrelative:lucy_salesdatamanagement\\lucy_salesdata.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E7ABB7-2D12-447F-93FE-5A1CBE227E31}|DemoLINQ2SQL\\DemoLINQ2SQL.csproj|c:\\github\\chapter2local\\demolinq2sql\\mystore.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E7ABB7-2D12-447F-93FE-5A1CBE227E31}|DemoLINQ2SQL\\DemoLINQ2SQL.csproj|solutionrelative:demolinq2sql\\mystore.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E7ABB7-2D12-447F-93FE-5A1CBE227E31}|DemoLINQ2SQL\\DemoLINQ2SQL.csproj|c:\\github\\chapter2local\\demolinq2sql\\mystore.dbml.layout||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{23E7ABB7-2D12-447F-93FE-5A1CBE227E31}|DemoLINQ2SQL\\DemoLINQ2SQL.csproj|solutionrelative:demolinq2sql\\mystore.dbml.layout||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E7ABB7-2D12-447F-93FE-5A1CBE227E31}|DemoLINQ2SQL\\DemoLINQ2SQL.csproj|c:\\github\\chapter2local\\demolinq2sql\\mystore.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{23E7ABB7-2D12-447F-93FE-5A1CBE227E31}|DemoLINQ2SQL\\DemoLINQ2SQL.csproj|solutionrelative:demolinq2sql\\mystore.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E7ABB7-2D12-447F-93FE-5A1CBE227E31}|DemoLINQ2SQL\\DemoLINQ2SQL.csproj|c:\\github\\chapter2local\\demolinq2sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E7ABB7-2D12-447F-93FE-5A1CBE227E31}|DemoLINQ2SQL\\DemoLINQ2SQL.csproj|solutionrelative:demolinq2sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E7ABB7-2D12-447F-93FE-5A1CBE227E31}|DemoLINQ2SQL\\DemoLINQ2SQL.csproj|c:\\github\\chapter2local\\demolinq2sql\\demolinq2sql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23E7ABB7-2D12-447F-93FE-5A1CBE227E31}|DemoLINQ2SQL\\DemoLINQ2SQL.csproj|solutionrelative:demolinq2sql\\demolinq2sql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFB4040A-59C9-440A-8B6E-6789480EAE9C}|DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj|c:\\github\\chapter2local\\demolinq2objectmodelclass\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFB4040A-59C9-440A-8B6E-6789480EAE9C}|DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj|solutionrelative:demolinq2objectmodelclass\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFB4040A-59C9-440A-8B6E-6789480EAE9C}|DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj|c:\\github\\chapter2local\\demolinq2objectmodelclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFB4040A-59C9-440A-8B6E-6789480EAE9C}|DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj|solutionrelative:demolinq2objectmodelclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFB4040A-59C9-440A-8B6E-6789480EAE9C}|DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj|c:\\github\\chapter2local\\demolinq2objectmodelclass\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFB4040A-59C9-440A-8B6E-6789480EAE9C}|DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj|solutionrelative:demolinq2objectmodelclass\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6AF51C-1F29-4791-B823-153385A7F574}|DemoLINQ2Object\\DemoLINQ2Object.csproj|c:\\github\\chapter2local\\demolinq2object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6AF51C-1F29-4791-B823-153385A7F574}|DemoLINQ2Object\\DemoLINQ2Object.csproj|solutionrelative:demolinq2object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0673BED2-CC7C-4A74-8151-5D1217DBD9D5}|DemoAliasClone\\DemoAliasClone.csproj|c:\\github\\chapter2local\\demoaliasclone\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0673BED2-CC7C-4A74-8151-5D1217DBD9D5}|DemoAliasClone\\DemoAliasClone.csproj|solutionrelative:demoaliasclone\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFB4040A-59C9-440A-8B6E-6789480EAE9C}|DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj|c:\\github\\chapter2local\\demolinq2objectmodelclass\\demolinq2objectmodelclass.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AFB4040A-59C9-440A-8B6E-6789480EAE9C}|DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj|solutionrelative:demolinq2objectmodelclass\\demolinq2objectmodelclass.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775C3741-EA2D-4CF8-ADBB-29A51EF93A27}|DemoDeligate\\DemoDeligate.csproj|c:\\github\\chapter2local\\demodeligate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775C3741-EA2D-4CF8-ADBB-29A51EF93A27}|DemoDeligate\\DemoDeligate.csproj|solutionrelative:demodeligate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0673BED2-CC7C-4A74-8151-5D1217DBD9D5}|DemoAliasClone\\DemoAliasClone.csproj|c:\\github\\chapter2local\\demoaliasclone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0673BED2-CC7C-4A74-8151-5D1217DBD9D5}|DemoAliasClone\\DemoAliasClone.csproj|solutionrelative:demoaliasclone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0673BED2-CC7C-4A74-8151-5D1217DBD9D5}|DemoAliasClone\\DemoAliasClone.csproj|c:\\github\\chapter2local\\demoaliasclone\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0673BED2-CC7C-4A74-8151-5D1217DBD9D5}|DemoAliasClone\\DemoAliasClone.csproj|solutionrelative:demoaliasclone\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0673BED2-CC7C-4A74-8151-5D1217DBD9D5}|DemoAliasClone\\DemoAliasClone.csproj|c:\\github\\chapter2local\\demoaliasclone\\demoaliasclone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0673BED2-CC7C-4A74-8151-5D1217DBD9D5}|DemoAliasClone\\DemoAliasClone.csproj|solutionrelative:demoaliasclone\\demoaliasclone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2A9A80BE-3027-4FD5-B1DF-0CE95DD87A1E}|OOP6_Dictionary\\OOP6_Dictionary.csproj|c:\\github\\chapter2local\\oop6_dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A9A80BE-3027-4FD5-B1DF-0CE95DD87A1E}|OOP6_Dictionary\\OOP6_Dictionary.csproj|solutionrelative:oop6_dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -161,8 +289,389 @@
               "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\BTCoBan_So3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BTCoBan_So3\\MainWindow.xaml",
+              "ToolTip": "C:\\Github\\Chapter2Local\\BTCoBan_So3\\MainWindow.xaml",
+              "RelativeToolTip": "BTCoBan_So3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T07:25:37.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\BTCoBan_So3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BTCoBan_So3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Github\\Chapter2Local\\BTCoBan_So3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BTCoBan_So3\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwDcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:25:36.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\BTCoBan_So2\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "BTCoBan_So2\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Github\\Chapter2Local\\BTCoBan_So2\\AssemblyInfo.cs",
+              "RelativeToolTip": "BTCoBan_So2\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:20:42.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\BTCoBan_So2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BTCoBan_So2\\MainWindow.xaml",
+              "ToolTip": "C:\\Github\\Chapter2Local\\BTCoBan_So2\\MainWindow.xaml",
+              "RelativeToolTip": "BTCoBan_So2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T07:02:34.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\BTCoBan_So2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BTCoBan_So2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Github\\Chapter2Local\\BTCoBan_So2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BTCoBan_So2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:02:33.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\BTCoBan_So1\\App.xaml",
+              "RelativeDocumentMoniker": "BTCoBan_So1\\App.xaml",
+              "ToolTip": "C:\\Github\\Chapter2Local\\BTCoBan_So1\\App.xaml",
+              "RelativeToolTip": "BTCoBan_So1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T07:00:12.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\BTCoBan_So1\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "BTCoBan_So1\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Github\\Chapter2Local\\BTCoBan_So1\\AssemblyInfo.cs",
+              "RelativeToolTip": "BTCoBan_So1\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:00:09.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\BTCoBan_So1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BTCoBan_So1\\MainWindow.xaml",
+              "ToolTip": "C:\\Github\\Chapter2Local\\BTCoBan_So1\\MainWindow.xaml",
+              "RelativeToolTip": "BTCoBan_So1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T06:44:29.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\BTCoBan_So1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BTCoBan_So1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Github\\Chapter2Local\\BTCoBan_So1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BTCoBan_So1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T06:44:28.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\HelloWpfApp\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HelloWpfApp\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Github\\Chapter2Local\\HelloWpfApp\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "HelloWpfApp\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T06:20:06.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\HelloWpfApp\\App.xaml",
+              "RelativeDocumentMoniker": "HelloWpfApp\\App.xaml",
+              "ToolTip": "C:\\Github\\Chapter2Local\\HelloWpfApp\\App.xaml",
+              "RelativeToolTip": "HelloWpfApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T06:19:22.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\HelloWpfApp\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "HelloWpfApp\\LoginWindow.xaml",
+              "ToolTip": "C:\\Github\\Chapter2Local\\HelloWpfApp\\LoginWindow.xaml",
+              "RelativeToolTip": "HelloWpfApp\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T05:57:44.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\HelloWpfApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HelloWpfApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Github\\Chapter2Local\\HelloWpfApp\\MainWindow.xaml",
+              "RelativeToolTip": "HelloWpfApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T05:43:37.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\HelloWpfApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HelloWpfApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Github\\Chapter2Local\\HelloWpfApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HelloWpfApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T05:43:36.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Lucy_SalesData.dbml",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\Lucy_SalesDataManagement\\Lucy_SalesData.dbml",
+              "RelativeDocumentMoniker": "Lucy_SalesDataManagement\\Lucy_SalesData.dbml",
+              "ToolTip": "C:\\Github\\Chapter2Local\\Lucy_SalesDataManagement\\Lucy_SalesData.dbml",
+              "RelativeToolTip": "Lucy_SalesDataManagement\\Lucy_SalesData.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2025-06-06T07:44:44.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\Lucy_SalesDataManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Lucy_SalesDataManagement\\Program.cs",
+              "ToolTip": "C:\\Github\\Chapter2Local\\Lucy_SalesDataManagement\\Program.cs",
+              "RelativeToolTip": "Lucy_SalesDataManagement\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T07:11:08.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MyStore.designer.cs",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoLINQ2SQL\\MyStore.designer.cs",
+              "RelativeDocumentMoniker": "DemoLINQ2SQL\\MyStore.designer.cs",
+              "ToolTip": "C:\\Github\\Chapter2Local\\DemoLINQ2SQL\\MyStore.designer.cs",
+              "RelativeToolTip": "DemoLINQ2SQL\\MyStore.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:21:58.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Lucy_SalesDataManagement.csproj",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\Lucy_SalesDataManagement\\Lucy_SalesDataManagement.csproj",
+              "RelativeDocumentMoniker": "Lucy_SalesDataManagement\\Lucy_SalesDataManagement.csproj",
+              "ToolTip": "C:\\Github\\Chapter2Local\\Lucy_SalesDataManagement\\Lucy_SalesDataManagement.csproj",
+              "RelativeToolTip": "Lucy_SalesDataManagement\\Lucy_SalesDataManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-06T07:21:15.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MyStore.dbml.layout",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoLINQ2SQL\\MyStore.dbml.layout",
+              "RelativeDocumentMoniker": "DemoLINQ2SQL\\MyStore.dbml.layout",
+              "ToolTip": "C:\\Github\\Chapter2Local\\DemoLINQ2SQL\\MyStore.dbml.layout",
+              "RelativeToolTip": "DemoLINQ2SQL\\MyStore.dbml.layout",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-06T07:20:43.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MyStore.dbml",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoLINQ2SQL\\MyStore.dbml",
+              "RelativeDocumentMoniker": "DemoLINQ2SQL\\MyStore.dbml",
+              "ToolTip": "C:\\Github\\Chapter2Local\\DemoLINQ2SQL\\MyStore.dbml",
+              "RelativeToolTip": "DemoLINQ2SQL\\MyStore.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2025-06-06T06:25:35.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoLINQ2SQL\\Program.cs",
+              "RelativeDocumentMoniker": "DemoLINQ2SQL\\Program.cs",
+              "ToolTip": "C:\\Github\\Chapter2Local\\DemoLINQ2SQL\\Program.cs",
+              "RelativeToolTip": "DemoLINQ2SQL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:37:22.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DemoLINQ2SQL.csproj",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoLINQ2SQL\\DemoLINQ2SQL.csproj",
+              "RelativeDocumentMoniker": "DemoLINQ2SQL\\DemoLINQ2SQL.csproj",
+              "ToolTip": "C:\\Github\\Chapter2Local\\DemoLINQ2SQL\\DemoLINQ2SQL.csproj",
+              "RelativeToolTip": "DemoLINQ2SQL\\DemoLINQ2SQL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-04T04:50:23.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ListProduct.cs",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoLINQ2ObjectModelClass\\ListProduct.cs",
+              "RelativeDocumentMoniker": "DemoLINQ2ObjectModelClass\\ListProduct.cs",
+              "ToolTip": "C:\\Github\\Chapter2Local\\DemoLINQ2ObjectModelClass\\ListProduct.cs",
+              "RelativeToolTip": "DemoLINQ2ObjectModelClass\\ListProduct.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAIBJwGEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:40:52.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoLINQ2ObjectModelClass\\Product.cs",
+              "RelativeDocumentMoniker": "DemoLINQ2ObjectModelClass\\Product.cs",
+              "ToolTip": "C:\\Github\\Chapter2Local\\DemoLINQ2ObjectModelClass\\Product.cs",
+              "RelativeToolTip": "DemoLINQ2ObjectModelClass\\Product.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:39:47.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DemoLINQ2ObjectModelClass.csproj",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj",
+              "RelativeDocumentMoniker": "DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj",
+              "ToolTip": "C:\\Github\\Chapter2Local\\DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj",
+              "RelativeToolTip": "DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T06:38:54.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoLINQ2ObjectModelClass\\Program.cs",
+              "RelativeDocumentMoniker": "DemoLINQ2ObjectModelClass\\Program.cs",
+              "ToolTip": "C:\\Github\\Chapter2Local\\DemoLINQ2ObjectModelClass\\Program.cs",
+              "RelativeToolTip": "DemoLINQ2ObjectModelClass\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBZwCYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:38:49.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoLINQ2Object\\Program.cs",
+              "RelativeDocumentMoniker": "DemoLINQ2Object\\Program.cs",
+              "ToolTip": "C:\\Github\\Chapter2Local\\DemoLINQ2Object\\Program.cs",
+              "RelativeToolTip": "DemoLINQ2Object\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:29:36.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoDeligate\\Program.cs",
+              "RelativeDocumentMoniker": "DemoDeligate\\Program.cs",
+              "ToolTip": "C:\\Github\\Chapter2Local\\DemoDeligate\\Program.cs",
+              "RelativeToolTip": "DemoDeligate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:06:31.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DemoAliasClone.csproj",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoAliasClone\\DemoAliasClone.csproj",
+              "RelativeDocumentMoniker": "DemoAliasClone\\DemoAliasClone.csproj",
+              "ToolTip": "C:\\Github\\Chapter2Local\\DemoAliasClone\\DemoAliasClone.csproj",
+              "RelativeToolTip": "DemoAliasClone\\DemoAliasClone.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T05:43:31.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoAliasClone\\Product.cs",
+              "RelativeDocumentMoniker": "DemoAliasClone\\Product.cs",
+              "ToolTip": "C:\\Github\\Chapter2Local\\DemoAliasClone\\Product.cs",
+              "RelativeToolTip": "DemoAliasClone\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T05:38:24.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoAliasClone\\Program.cs",
+              "RelativeDocumentMoniker": "DemoAliasClone\\Program.cs",
+              "ToolTip": "C:\\Github\\Chapter2Local\\DemoAliasClone\\Program.cs",
+              "RelativeToolTip": "DemoAliasClone\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAIBZwEsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T05:38:01.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoAliasClone\\Customer.cs",
+              "RelativeDocumentMoniker": "DemoAliasClone\\Customer.cs",
+              "ToolTip": "C:\\Github\\Chapter2Local\\DemoAliasClone\\Customer.cs",
+              "RelativeToolTip": "DemoAliasClone\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T05:38:01.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP6_Dictionary\\Category.cs",
               "RelativeDocumentMoniker": "OOP6_Dictionary\\Category.cs",
@@ -170,12 +679,11 @@
               "RelativeToolTip": "OOP6_Dictionary\\Category.cs",
               "ViewState": "AgIAAEoAAAAAAAAAAADwv1kAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T05:47:03.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T05:47:03.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 34,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP6_Dictionary\\Product.cs",
               "RelativeDocumentMoniker": "OOP6_Dictionary\\Product.cs",
@@ -183,38 +691,35 @@
               "RelativeToolTip": "OOP6_Dictionary\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T05:43:27.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T05:43:27.52Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 32,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP6_Dictionary\\Program.cs",
               "RelativeDocumentMoniker": "OOP6_Dictionary\\Program.cs",
               "ToolTip": "C:\\Github\\Chapter2Local\\OOP6_Dictionary\\Program.cs",
               "RelativeToolTip": "OOP6_Dictionary\\Program.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAUwF0AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAGwAAAAAAAAAAIBZwGYAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T05:42:33.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T05:42:33.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 35,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP5_Generic_list\\Program.cs",
               "RelativeDocumentMoniker": "OOP5_Generic_list\\Program.cs",
               "ToolTip": "C:\\Github\\Chapter2Local\\OOP5_Generic_list\\Program.cs",
               "RelativeToolTip": "OOP5_Generic_list\\Program.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAAAGoAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAFUAAAAAAAAAAIBZwGoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T07:19:20.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T07:19:20.327Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 37,
               "Title": "YourUtils.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP4_ResumeOOP2\\YourUtils.cs",
               "RelativeDocumentMoniker": "OOP4_ResumeOOP2\\YourUtils.cs",
@@ -226,7 +731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 36,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP4_ResumeOOP2\\Program.cs",
               "RelativeDocumentMoniker": "OOP4_ResumeOOP2\\Program.cs",
@@ -238,7 +743,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 38,
               "Title": "MyUtils.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP3\\MyUtils.cs",
               "RelativeDocumentMoniker": "OOP3\\MyUtils.cs",
@@ -250,7 +755,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 39,
               "Title": "OOP3_ExtensionMethod.csproj",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP3\\OOP3_ExtensionMethod.csproj",
               "RelativeDocumentMoniker": "OOP3\\OOP3_ExtensionMethod.csproj",
@@ -262,7 +767,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 63,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP3\\Program.cs",
               "RelativeDocumentMoniker": "OOP3\\Program.cs",
@@ -274,7 +779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 42,
               "Title": "ParttimeEmployee.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP2\\ParttimeEmployee.cs",
               "RelativeDocumentMoniker": "OOP2\\ParttimeEmployee.cs",
@@ -286,7 +791,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 43,
               "Title": "FulltimeEployee.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP2\\FulltimeEployee.cs",
               "RelativeDocumentMoniker": "OOP2\\FulltimeEployee.cs",
@@ -298,31 +803,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 41,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP2\\Employee.cs",
               "RelativeDocumentMoniker": "OOP2\\Employee.cs",
               "ToolTip": "C:\\Github\\Chapter2Local\\OOP2\\Employee.cs",
               "RelativeToolTip": "OOP2\\Employee.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T05:49:16.155Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 40,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP2\\Program.cs",
               "RelativeDocumentMoniker": "OOP2\\Program.cs",
               "ToolTip": "C:\\Github\\Chapter2Local\\OOP2\\Program.cs",
               "RelativeToolTip": "OOP2\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBZwCMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T05:48:18.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 46,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP1\\Customer.cs",
               "RelativeDocumentMoniker": "OOP1\\Customer.cs",
@@ -334,7 +839,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 44,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP1\\Employee.cs",
               "RelativeDocumentMoniker": "OOP1\\Employee.cs",
@@ -346,7 +851,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 47,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP1\\Category.cs",
               "RelativeDocumentMoniker": "OOP1\\Category.cs",
@@ -358,31 +863,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 45,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP1\\Program.cs",
               "RelativeDocumentMoniker": "OOP1\\Program.cs",
               "ToolTip": "C:\\Github\\Chapter2Local\\OOP1\\Program.cs",
               "RelativeToolTip": "OOP1\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAIBJwC8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAACBjwC8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T06:33:36.908Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 48,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\NestedLoop_VeHinh\\Program.cs",
               "RelativeDocumentMoniker": "NestedLoop_VeHinh\\Program.cs",
               "ToolTip": "C:\\Github\\Chapter2Local\\NestedLoop_VeHinh\\Program.cs",
               "RelativeToolTip": "NestedLoop_VeHinh\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA+wBIAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T07:39:48.11Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 49,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\NestedLoop_Sort\\Program.cs",
               "RelativeDocumentMoniker": "NestedLoop_Sort\\Program.cs",
@@ -394,31 +899,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 50,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\TupleSample\\Program.cs",
               "RelativeDocumentMoniker": "TupleSample\\Program.cs",
               "ToolTip": "C:\\Github\\Chapter2Local\\TupleSample\\Program.cs",
               "RelativeToolTip": "TupleSample\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T06:51:11.131Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 51,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\paramsample\\Program.cs",
               "RelativeDocumentMoniker": "paramsample\\Program.cs",
               "ToolTip": "C:\\Github\\Chapter2Local\\paramsample\\Program.cs",
               "RelativeToolTip": "paramsample\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T06:42:34.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 53,
               "Title": "TryParseSimple.csproj",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\TryParseSimple\\TryParseSimple.csproj",
               "RelativeDocumentMoniker": "TryParseSimple\\TryParseSimple.csproj",
@@ -430,7 +935,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 52,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\TryParseSimple\\Program.cs",
               "RelativeDocumentMoniker": "TryParseSimple\\Program.cs",
@@ -442,7 +947,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 54,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\RefAndOut\\Program.cs",
               "RelativeDocumentMoniker": "RefAndOut\\Program.cs",
@@ -454,7 +959,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 55,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\SimpleMath\\Program.cs",
               "RelativeDocumentMoniker": "SimpleMath\\Program.cs",
@@ -466,7 +971,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 56,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\StringInteraction\\Program.cs",
               "RelativeDocumentMoniker": "StringInteraction\\Program.cs",
@@ -478,7 +983,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 59,
               "Title": "FirstDegree.csproj",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\FirstDegree\\FirstDegree.csproj",
               "RelativeDocumentMoniker": "FirstDegree\\FirstDegree.csproj",
@@ -490,7 +995,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 60,
               "Title": "FirstProject.csproj",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\FirstProject\\FirstProject.csproj",
               "RelativeDocumentMoniker": "FirstProject\\FirstProject.csproj",
@@ -502,7 +1007,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 57,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\QuarticEquation\\Program.cs",
               "RelativeDocumentMoniker": "QuarticEquation\\Program.cs",
@@ -514,7 +1019,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 58,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\FirstDegree\\Program.cs",
               "RelativeDocumentMoniker": "FirstDegree\\Program.cs",
@@ -526,7 +1031,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 61,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\SecondProject\\Program.cs",
               "RelativeDocumentMoniker": "SecondProject\\Program.cs",
@@ -538,7 +1043,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 62,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\FirstProject\\Program.cs",
               "RelativeDocumentMoniker": "FirstProject\\Program.cs",

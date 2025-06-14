@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BTCoBan_So3/1.0.0": {
+        "runtime": {
+          "BTCoBan_So3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BTCoBan_So3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

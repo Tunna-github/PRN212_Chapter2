@@ -1,0 +1,15 @@
+C:\Github\Chapter2Local\DemoDeligate\bin\Debug\net8.0\DemoDeligate.exe
+C:\Github\Chapter2Local\DemoDeligate\bin\Debug\net8.0\DemoDeligate.deps.json
+C:\Github\Chapter2Local\DemoDeligate\bin\Debug\net8.0\DemoDeligate.runtimeconfig.json
+C:\Github\Chapter2Local\DemoDeligate\bin\Debug\net8.0\DemoDeligate.dll
+C:\Github\Chapter2Local\DemoDeligate\bin\Debug\net8.0\DemoDeligate.pdb
+C:\Github\Chapter2Local\DemoDeligate\obj\Debug\net8.0\DemoDeligate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Chapter2Local\DemoDeligate\obj\Debug\net8.0\DemoDeligate.AssemblyInfoInputs.cache
+C:\Github\Chapter2Local\DemoDeligate\obj\Debug\net8.0\DemoDeligate.AssemblyInfo.cs
+C:\Github\Chapter2Local\DemoDeligate\obj\Debug\net8.0\DemoDeligate.csproj.CoreCompileInputs.cache
+C:\Github\Chapter2Local\DemoDeligate\obj\Debug\net8.0\DemoDeligate.sourcelink.json
+C:\Github\Chapter2Local\DemoDeligate\obj\Debug\net8.0\DemoDeligate.dll
+C:\Github\Chapter2Local\DemoDeligate\obj\Debug\net8.0\refint\DemoDeligate.dll
+C:\Github\Chapter2Local\DemoDeligate\obj\Debug\net8.0\DemoDeligate.pdb
+C:\Github\Chapter2Local\DemoDeligate\obj\Debug\net8.0\DemoDeligate.genruntimeconfig.cache
+C:\Github\Chapter2Local\DemoDeligate\obj\Debug\net8.0\ref\DemoDeligate.dll

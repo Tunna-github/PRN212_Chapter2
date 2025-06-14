@@ -1,0 +1,15 @@
+C:\Github\Chapter2Local\DemoLINQ2Object\bin\Debug\net8.0\DemoLINQ2Object.exe
+C:\Github\Chapter2Local\DemoLINQ2Object\bin\Debug\net8.0\DemoLINQ2Object.deps.json
+C:\Github\Chapter2Local\DemoLINQ2Object\bin\Debug\net8.0\DemoLINQ2Object.runtimeconfig.json
+C:\Github\Chapter2Local\DemoLINQ2Object\bin\Debug\net8.0\DemoLINQ2Object.dll
+C:\Github\Chapter2Local\DemoLINQ2Object\bin\Debug\net8.0\DemoLINQ2Object.pdb
+C:\Github\Chapter2Local\DemoLINQ2Object\obj\Debug\net8.0\DemoLINQ2Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Chapter2Local\DemoLINQ2Object\obj\Debug\net8.0\DemoLINQ2Object.AssemblyInfoInputs.cache
+C:\Github\Chapter2Local\DemoLINQ2Object\obj\Debug\net8.0\DemoLINQ2Object.AssemblyInfo.cs
+C:\Github\Chapter2Local\DemoLINQ2Object\obj\Debug\net8.0\DemoLINQ2Object.csproj.CoreCompileInputs.cache
+C:\Github\Chapter2Local\DemoLINQ2Object\obj\Debug\net8.0\DemoLINQ2Object.sourcelink.json
+C:\Github\Chapter2Local\DemoLINQ2Object\obj\Debug\net8.0\DemoLINQ2Object.dll
+C:\Github\Chapter2Local\DemoLINQ2Object\obj\Debug\net8.0\refint\DemoLINQ2Object.dll
+C:\Github\Chapter2Local\DemoLINQ2Object\obj\Debug\net8.0\DemoLINQ2Object.pdb
+C:\Github\Chapter2Local\DemoLINQ2Object\obj\Debug\net8.0\DemoLINQ2Object.genruntimeconfig.cache
+C:\Github\Chapter2Local\DemoLINQ2Object\obj\Debug\net8.0\ref\DemoLINQ2Object.dll

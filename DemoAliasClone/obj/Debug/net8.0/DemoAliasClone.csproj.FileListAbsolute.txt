@@ -1,0 +1,15 @@
+C:\Github\Chapter2Local\DemoAliasClone\bin\Debug\net8.0\DemoAliasClone.exe
+C:\Github\Chapter2Local\DemoAliasClone\bin\Debug\net8.0\DemoAliasClone.deps.json
+C:\Github\Chapter2Local\DemoAliasClone\bin\Debug\net8.0\DemoAliasClone.runtimeconfig.json
+C:\Github\Chapter2Local\DemoAliasClone\bin\Debug\net8.0\DemoAliasClone.dll
+C:\Github\Chapter2Local\DemoAliasClone\bin\Debug\net8.0\DemoAliasClone.pdb
+C:\Github\Chapter2Local\DemoAliasClone\obj\Debug\net8.0\DemoAliasClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Chapter2Local\DemoAliasClone\obj\Debug\net8.0\DemoAliasClone.AssemblyInfoInputs.cache
+C:\Github\Chapter2Local\DemoAliasClone\obj\Debug\net8.0\DemoAliasClone.AssemblyInfo.cs
+C:\Github\Chapter2Local\DemoAliasClone\obj\Debug\net8.0\DemoAliasClone.csproj.CoreCompileInputs.cache
+C:\Github\Chapter2Local\DemoAliasClone\obj\Debug\net8.0\DemoAliasClone.sourcelink.json
+C:\Github\Chapter2Local\DemoAliasClone\obj\Debug\net8.0\DemoAliasClone.dll
+C:\Github\Chapter2Local\DemoAliasClone\obj\Debug\net8.0\refint\DemoAliasClone.dll
+C:\Github\Chapter2Local\DemoAliasClone\obj\Debug\net8.0\DemoAliasClone.pdb
+C:\Github\Chapter2Local\DemoAliasClone\obj\Debug\net8.0\DemoAliasClone.genruntimeconfig.cache
+C:\Github\Chapter2Local\DemoAliasClone\obj\Debug\net8.0\ref\DemoAliasClone.dll
