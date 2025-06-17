@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoLINQ2ObjectModelClass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2f913a2fc723b509cf6589efb44bde1a0130131")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4101266063337c289c6ef4de0082174eb86e728f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoLINQ2ObjectModelClass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoLINQ2ObjectModelClass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

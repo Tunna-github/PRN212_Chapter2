@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Github\\Chapter2Local\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DFFDCE98-4F91-4411-8A90-64B6EA09FD0F}|ListOnWpf\\ListOnWpf.csproj|c:\\github\\chapter2local\\listonwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFDCE98-4F91-4411-8A90-64B6EA09FD0F}|ListOnWpf\\ListOnWpf.csproj|solutionrelative:listonwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFDCE98-4F91-4411-8A90-64B6EA09FD0F}|ListOnWpf\\ListOnWpf.csproj|c:\\github\\chapter2local\\listonwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DFFDCE98-4F91-4411-8A90-64B6EA09FD0F}|ListOnWpf\\ListOnWpf.csproj|solutionrelative:listonwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0A2CB7A7-8139-4FFF-B3FE-A9ABDE7D59F3}|BTCoBan_So3\\BTCoBan_So3.csproj|c:\\github\\chapter2local\\btcoban_so3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A2CB7A7-8139-4FFF-B3FE-A9ABDE7D59F3}|BTCoBan_So3\\BTCoBan_So3.csproj|solutionrelative:btcoban_so3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -296,30 +304,54 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Github\\Chapter2Local\\BTCoBan_So3\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "BTCoBan_So3\\MainWindow.xaml",
-              "ToolTip": "C:\\Github\\Chapter2Local\\BTCoBan_So3\\MainWindow.xaml",
-              "RelativeToolTip": "BTCoBan_So3\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\ListOnWpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ListOnWpf\\MainWindow.xaml",
+              "ToolTip": "C:\\Github\\Chapter2Local\\ListOnWpf\\MainWindow.xaml",
+              "RelativeToolTip": "ListOnWpf\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-13T07:25:37.209Z",
+              "WhenOpened": "2025-06-17T05:41:20.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\ListOnWpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ListOnWpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Github\\Chapter2Local\\ListOnWpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ListOnWpf\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:41:19.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Github\\Chapter2Local\\BTCoBan_So3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BTCoBan_So3\\MainWindow.xaml",
+              "ToolTip": "C:\\Github\\Chapter2Local\\BTCoBan_So3\\MainWindow.xaml",
+              "RelativeToolTip": "BTCoBan_So3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T07:25:37.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\BTCoBan_So3\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "BTCoBan_So3\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Github\\Chapter2Local\\BTCoBan_So3\\MainWindow.xaml.cs",
               "RelativeToolTip": "BTCoBan_So3\\MainWindow.xaml.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAiwDcAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwDcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T07:25:36.464Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\BTCoBan_So2\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "BTCoBan_So2\\AssemblyInfo.cs",
@@ -331,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\BTCoBan_So2\\MainWindow.xaml",
               "RelativeDocumentMoniker": "BTCoBan_So2\\MainWindow.xaml",
@@ -342,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\BTCoBan_So2\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "BTCoBan_So2\\MainWindow.xaml.cs",
@@ -354,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\BTCoBan_So1\\App.xaml",
               "RelativeDocumentMoniker": "BTCoBan_So1\\App.xaml",
@@ -365,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\BTCoBan_So1\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "BTCoBan_So1\\AssemblyInfo.cs",
@@ -377,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\BTCoBan_So1\\MainWindow.xaml",
               "RelativeDocumentMoniker": "BTCoBan_So1\\MainWindow.xaml",
@@ -388,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\BTCoBan_So1\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "BTCoBan_So1\\MainWindow.xaml.cs",
@@ -400,7 +432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "LoginWindow.xaml.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\HelloWpfApp\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "HelloWpfApp\\LoginWindow.xaml.cs",
@@ -412,7 +444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\HelloWpfApp\\App.xaml",
               "RelativeDocumentMoniker": "HelloWpfApp\\App.xaml",
@@ -423,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\HelloWpfApp\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "HelloWpfApp\\LoginWindow.xaml",
@@ -434,7 +466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\HelloWpfApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "HelloWpfApp\\MainWindow.xaml",
@@ -445,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\HelloWpfApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "HelloWpfApp\\MainWindow.xaml.cs",
@@ -457,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Lucy_SalesData.dbml",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\Lucy_SalesDataManagement\\Lucy_SalesData.dbml",
               "RelativeDocumentMoniker": "Lucy_SalesDataManagement\\Lucy_SalesData.dbml",
@@ -468,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\Lucy_SalesDataManagement\\Program.cs",
               "RelativeDocumentMoniker": "Lucy_SalesDataManagement\\Program.cs",
@@ -480,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "MyStore.designer.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoLINQ2SQL\\MyStore.designer.cs",
               "RelativeDocumentMoniker": "DemoLINQ2SQL\\MyStore.designer.cs",
@@ -492,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Lucy_SalesDataManagement.csproj",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\Lucy_SalesDataManagement\\Lucy_SalesDataManagement.csproj",
               "RelativeDocumentMoniker": "Lucy_SalesDataManagement\\Lucy_SalesDataManagement.csproj",
@@ -504,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "MyStore.dbml.layout",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoLINQ2SQL\\MyStore.dbml.layout",
               "RelativeDocumentMoniker": "DemoLINQ2SQL\\MyStore.dbml.layout",
@@ -516,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "MyStore.dbml",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoLINQ2SQL\\MyStore.dbml",
               "RelativeDocumentMoniker": "DemoLINQ2SQL\\MyStore.dbml",
@@ -527,7 +559,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoLINQ2SQL\\Program.cs",
               "RelativeDocumentMoniker": "DemoLINQ2SQL\\Program.cs",
@@ -539,7 +571,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "DemoLINQ2SQL.csproj",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoLINQ2SQL\\DemoLINQ2SQL.csproj",
               "RelativeDocumentMoniker": "DemoLINQ2SQL\\DemoLINQ2SQL.csproj",
@@ -551,7 +583,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "ListProduct.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoLINQ2ObjectModelClass\\ListProduct.cs",
               "RelativeDocumentMoniker": "DemoLINQ2ObjectModelClass\\ListProduct.cs",
@@ -563,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoLINQ2ObjectModelClass\\Product.cs",
               "RelativeDocumentMoniker": "DemoLINQ2ObjectModelClass\\Product.cs",
@@ -575,7 +607,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "DemoLINQ2ObjectModelClass.csproj",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj",
               "RelativeDocumentMoniker": "DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj",
@@ -587,7 +619,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoLINQ2ObjectModelClass\\Program.cs",
               "RelativeDocumentMoniker": "DemoLINQ2ObjectModelClass\\Program.cs",
@@ -599,7 +631,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoLINQ2Object\\Program.cs",
               "RelativeDocumentMoniker": "DemoLINQ2Object\\Program.cs",
@@ -611,7 +643,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoDeligate\\Program.cs",
               "RelativeDocumentMoniker": "DemoDeligate\\Program.cs",
@@ -623,7 +655,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "DemoAliasClone.csproj",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoAliasClone\\DemoAliasClone.csproj",
               "RelativeDocumentMoniker": "DemoAliasClone\\DemoAliasClone.csproj",
@@ -635,7 +667,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoAliasClone\\Product.cs",
               "RelativeDocumentMoniker": "DemoAliasClone\\Product.cs",
@@ -647,7 +679,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoAliasClone\\Program.cs",
               "RelativeDocumentMoniker": "DemoAliasClone\\Program.cs",
@@ -659,7 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\DemoAliasClone\\Customer.cs",
               "RelativeDocumentMoniker": "DemoAliasClone\\Customer.cs",
@@ -671,7 +703,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP6_Dictionary\\Category.cs",
               "RelativeDocumentMoniker": "OOP6_Dictionary\\Category.cs",
@@ -683,7 +715,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP6_Dictionary\\Product.cs",
               "RelativeDocumentMoniker": "OOP6_Dictionary\\Product.cs",
@@ -695,7 +727,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP6_Dictionary\\Program.cs",
               "RelativeDocumentMoniker": "OOP6_Dictionary\\Program.cs",
@@ -707,7 +739,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP5_Generic_list\\Program.cs",
               "RelativeDocumentMoniker": "OOP5_Generic_list\\Program.cs",
@@ -719,7 +751,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "YourUtils.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP4_ResumeOOP2\\YourUtils.cs",
               "RelativeDocumentMoniker": "OOP4_ResumeOOP2\\YourUtils.cs",
@@ -731,7 +763,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP4_ResumeOOP2\\Program.cs",
               "RelativeDocumentMoniker": "OOP4_ResumeOOP2\\Program.cs",
@@ -743,7 +775,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "MyUtils.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP3\\MyUtils.cs",
               "RelativeDocumentMoniker": "OOP3\\MyUtils.cs",
@@ -755,7 +787,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "OOP3_ExtensionMethod.csproj",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP3\\OOP3_ExtensionMethod.csproj",
               "RelativeDocumentMoniker": "OOP3\\OOP3_ExtensionMethod.csproj",
@@ -767,7 +799,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 65,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP3\\Program.cs",
               "RelativeDocumentMoniker": "OOP3\\Program.cs",
@@ -779,7 +811,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "ParttimeEmployee.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP2\\ParttimeEmployee.cs",
               "RelativeDocumentMoniker": "OOP2\\ParttimeEmployee.cs",
@@ -791,7 +823,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "FulltimeEployee.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP2\\FulltimeEployee.cs",
               "RelativeDocumentMoniker": "OOP2\\FulltimeEployee.cs",
@@ -803,7 +835,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP2\\Employee.cs",
               "RelativeDocumentMoniker": "OOP2\\Employee.cs",
@@ -815,7 +847,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP2\\Program.cs",
               "RelativeDocumentMoniker": "OOP2\\Program.cs",
@@ -827,7 +859,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP1\\Customer.cs",
               "RelativeDocumentMoniker": "OOP1\\Customer.cs",
@@ -839,7 +871,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP1\\Employee.cs",
               "RelativeDocumentMoniker": "OOP1\\Employee.cs",
@@ -851,7 +883,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP1\\Category.cs",
               "RelativeDocumentMoniker": "OOP1\\Category.cs",
@@ -863,7 +895,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\OOP1\\Program.cs",
               "RelativeDocumentMoniker": "OOP1\\Program.cs",
@@ -875,7 +907,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\NestedLoop_VeHinh\\Program.cs",
               "RelativeDocumentMoniker": "NestedLoop_VeHinh\\Program.cs",
@@ -887,7 +919,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\NestedLoop_Sort\\Program.cs",
               "RelativeDocumentMoniker": "NestedLoop_Sort\\Program.cs",
@@ -899,7 +931,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\TupleSample\\Program.cs",
               "RelativeDocumentMoniker": "TupleSample\\Program.cs",
@@ -911,7 +943,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\paramsample\\Program.cs",
               "RelativeDocumentMoniker": "paramsample\\Program.cs",
@@ -923,7 +955,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "TryParseSimple.csproj",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\TryParseSimple\\TryParseSimple.csproj",
               "RelativeDocumentMoniker": "TryParseSimple\\TryParseSimple.csproj",
@@ -935,7 +967,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\TryParseSimple\\Program.cs",
               "RelativeDocumentMoniker": "TryParseSimple\\Program.cs",
@@ -947,7 +979,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 56,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\RefAndOut\\Program.cs",
               "RelativeDocumentMoniker": "RefAndOut\\Program.cs",
@@ -959,7 +991,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 57,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\SimpleMath\\Program.cs",
               "RelativeDocumentMoniker": "SimpleMath\\Program.cs",
@@ -971,7 +1003,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 58,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\StringInteraction\\Program.cs",
               "RelativeDocumentMoniker": "StringInteraction\\Program.cs",
@@ -983,7 +1015,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 61,
               "Title": "FirstDegree.csproj",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\FirstDegree\\FirstDegree.csproj",
               "RelativeDocumentMoniker": "FirstDegree\\FirstDegree.csproj",
@@ -995,7 +1027,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 62,
               "Title": "FirstProject.csproj",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\FirstProject\\FirstProject.csproj",
               "RelativeDocumentMoniker": "FirstProject\\FirstProject.csproj",
@@ -1007,7 +1039,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 59,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\QuarticEquation\\Program.cs",
               "RelativeDocumentMoniker": "QuarticEquation\\Program.cs",
@@ -1019,7 +1051,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 60,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\FirstDegree\\Program.cs",
               "RelativeDocumentMoniker": "FirstDegree\\Program.cs",
@@ -1031,7 +1063,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 63,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\SecondProject\\Program.cs",
               "RelativeDocumentMoniker": "SecondProject\\Program.cs",
@@ -1043,7 +1075,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 64,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\Chapter2Local\\FirstProject\\Program.cs",
               "RelativeDocumentMoniker": "FirstProject\\Program.cs",
